@@ -5,6 +5,7 @@ Disclaimer: This project was build in 24 hours at a Hackathon in Harvard. Though
 
 <b>What it Does<b>
   
+  
  On the hardware side, we built a cooling box that keeps the medication refrigerated. The inner grid was created by putting slits in the wood sheets and interlocking them together. This was done to prevent over constraining the box and to limit the amount of angles and other such materials used. Dry ice packets can be slid into the pockets inside the box, and the separated compartments for medicine keep it, as well as the recipient who retrieves the medicine, safe. We also lined the inside with foam to retain the cold and reduce shock from the bike ride. Since drug safety and security is one of the biggest concerns, we implemented a GPS with an ultrasonic to track the box at all times and to detect possible tampering with the medicine. This would ensure successful transport of the medicine from producer, to hospital, and then to clients. This box can be strapped to a bike or on the back like a backpack! Very eco friendly :)
 
 Pharmacies will need to keep track of where their riders are and the status of their orders, so we programmed a dashboard that contains all the vital information like the prescription authentification and the Biker's location. We see our service becoming the Ubereats for medicine delivery.
