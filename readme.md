@@ -20,4 +20,10 @@ Since security is such a huge concern in the medical industry, we partially impl
 Devpost - https://devpost.com/software/life-4ds6a1
 
 
-![](img/.)
+![](img/1.jpeg)
+
+![](img/3.jpeg)
+
+![](img/5.jpeg)
+
+![](img/6.jpeg)
