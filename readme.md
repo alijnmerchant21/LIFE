@@ -22,10 +22,10 @@ Devpost - https://devpost.com/software/life-4ds6a1
 
 ![](img/1.jpeg)
 
-![](img/7.jpeg)
-
 ![](img/3.jpeg)
 
 ![](img/5.jpeg)
 
 ![](img/6.jpeg)
+
+![](img/7.jpeg)
