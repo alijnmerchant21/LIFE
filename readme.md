@@ -18,3 +18,6 @@ Since security is such a huge concern in the medical industry, we partially impl
 *The prescription issued by the doctor is securely stored on blockchain making it immutable and highly available. Additionally, the logistical details along with temperature, location and prescription information is stored on blockchain making the entire process - transparent, traceable and highly immune to counterfeiting.*
 
 Devpost - https://devpost.com/software/life-4ds6a1
+
+
+![](img/.)
