@@ -1,4 +1,4 @@
-LIFE - Medicine Delivery System using Blockchain
+**LIFE - Medicine Delivery System using Blockchain**
 
 Disclaimer: This project was build in 24 hours at a Hackathon in Harvard. Though this is a working prototype; a few components have not been interated together. Please feel free to report issues or make pull request.
 
