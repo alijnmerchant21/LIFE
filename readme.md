@@ -28,4 +28,4 @@ Devpost - https://devpost.com/software/life-4ds6a1
 
 ![](img/6.jpeg)
 
-![](img/7.jpeg)
+
